@@ -1,4 +1,4 @@
 line1
-lin2
+abcd
 line3
 line4
